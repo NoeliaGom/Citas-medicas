@@ -1,7 +1,5 @@
 # Citas-medicas
-
-
-MediCare - Reserva de Citas Médicas
+# MediCare - Reserva de Citas Médicas
 
 ## Descripción
 Proyecto web para reservar citas médicas, con integración a Google Calendar.  
